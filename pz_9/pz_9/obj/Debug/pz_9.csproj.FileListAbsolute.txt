@@ -1,0 +1,8 @@
+C:\Users\эля\source\repos\pz_9\pz_9\obj\Debug\pz_9.csproj.AssemblyReference.cache
+C:\Users\эля\source\repos\pz_9\pz_9\obj\Debug\pz_9.csproj.SuggestedBindingRedirects.cache
+C:\Users\эля\source\repos\pz_9\pz_9\obj\Debug\pz_9.csproj.CoreCompileInputs.cache
+C:\Users\эля\source\repos\pz_9\pz_9\bin\Debug\pz_9.exe.config
+C:\Users\эля\source\repos\pz_9\pz_9\bin\Debug\pz_9.exe
+C:\Users\эля\source\repos\pz_9\pz_9\bin\Debug\pz_9.pdb
+C:\Users\эля\source\repos\pz_9\pz_9\obj\Debug\pz_9.exe
+C:\Users\эля\source\repos\pz_9\pz_9\obj\Debug\pz_9.pdb
