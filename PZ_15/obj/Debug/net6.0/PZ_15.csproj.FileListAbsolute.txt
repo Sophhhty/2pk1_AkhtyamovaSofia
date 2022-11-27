@@ -1,0 +1,15 @@
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\bin\Debug\net6.0\PZ_15.exe
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\bin\Debug\net6.0\PZ_15.deps.json
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\bin\Debug\net6.0\PZ_15.runtimeconfig.json
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\bin\Debug\net6.0\PZ_15.dll
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\bin\Debug\net6.0\PZ_15.pdb
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\obj\Debug\net6.0\PZ_15.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\obj\Debug\net6.0\PZ_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\obj\Debug\net6.0\PZ_15.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\obj\Debug\net6.0\PZ_15.AssemblyInfo.cs
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\obj\Debug\net6.0\PZ_15.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\obj\Debug\net6.0\PZ_15.dll
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\obj\Debug\net6.0\refint\PZ_15.dll
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\obj\Debug\net6.0\PZ_15.pdb
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\obj\Debug\net6.0\PZ_15.genruntimeconfig.cache
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\PZ_15\PZ_15\obj\Debug\net6.0\ref\PZ_15.dll
