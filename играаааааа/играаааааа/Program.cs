@@ -1,5 +1,5 @@
 ﻿//using System;
-namespace играаааааа
+namespace pz_17
 {
     internal class Program
     {
