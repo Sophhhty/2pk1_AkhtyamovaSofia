@@ -1,0 +1,15 @@
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\bin\Debug\net6.0\играаааааа.exe
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\bin\Debug\net6.0\играаааааа.deps.json
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\bin\Debug\net6.0\играаааааа.runtimeconfig.json
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\bin\Debug\net6.0\играаааааа.dll
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\bin\Debug\net6.0\играаааааа.pdb
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\obj\Debug\net6.0\играаааааа.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\obj\Debug\net6.0\играаааааа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\obj\Debug\net6.0\играаааааа.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\obj\Debug\net6.0\играаааааа.AssemblyInfo.cs
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\obj\Debug\net6.0\играаааааа.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\obj\Debug\net6.0\играаааааа.dll
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\obj\Debug\net6.0\refint\играаааааа.dll
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\obj\Debug\net6.0\играаааааа.pdb
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\obj\Debug\net6.0\играаааааа.genruntimeconfig.cache
+C:\Users\sofia\source\repos\2pk1_AkhtyamovaSofia\играаааааа\играаааааа\obj\Debug\net6.0\ref\играаааааа.dll
